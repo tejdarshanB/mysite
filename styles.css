@@ -1,0 +1,175 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: black;
+}
+
+h10
+{
+  font-size: 6.625rem;
+  font-family: 'Sacramento', cursive;
+
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: grey;
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+  font-size: 1.7rem;
+}
+
+h4
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #dbdbdb;
+
+}
+
+div
+{
+  background-color: none;
+}
+
+p
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h6
+{
+  color: #0c7b93;
+  font-size: 1.2rem;
+}
+
+hr{
+  border: dotted gray 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a
+{
+  color: #0c7b93;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: #dbdbdb;
+}
+
+.jumbotron
+{
+  width: 1908px;
+}
+
+.box0
+{
+  position: relative;
+  background-color: black;
+}
+
+.txt{
+  position: absolute;
+  bottom: 620px;
+  left: 665px;
+  color: #dbdbdb;
+  text-align: center;
+}
+
+.pro
+{
+  text-decoration: underline;
+}
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.programmer-img
+{
+  width: 30%;
+  float: right;
+  margin-left: 130px;
+}
+
+.dota-img
+{
+  width: 30%;
+  float: left;
+  margin-right: 150px;
+}
+
+.lang
+{
+  color: #0c7b93;
+  font-size: 1.2rem;
+}
+
+.popoye
+{
+  width: 400px;
+}
+
+.clr
+{
+  color: #ff6f5e;
+}
+
+.cprt
+{
+  color: #dbdbdb;
+  font-size: 0.75rem;
+}
+
+.classname {
+	-moz-box-shadow:inset     #010203;
+	-webkit-box-shadow:inset     #010203;
+	box-shadow:inset     #010203;
+	background-color:#808080;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	display:inline-block;
+	color:#000000;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:normal;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+}.classname:hover {
+	background-color:#0c7a93;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
